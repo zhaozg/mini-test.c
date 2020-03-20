@@ -4,7 +4,7 @@
 #include <windows.h>
 #include <strsafe.h>
 
-#include "include/mini/common.h"
+#include "mini/common.h"
 
 #define BUFSIZE 4096
 

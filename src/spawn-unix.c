@@ -5,7 +5,7 @@
 #include <sys/wait.h>
 #include <unistd.h>
 
-#include "include/mini/common.h"
+#include "mini/common.h"
 
 static char executable_path[4096];
 
